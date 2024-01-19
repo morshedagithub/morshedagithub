@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Morsheda Parvin</h1>
 <h3 align="center">A passionate Data Analyst from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif"
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSVtS3OcIM1tc3mq6vaDr2sNQnTa-IvD2KQ&usqp=CAU
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morshedagithub&label=Profile%20views&color=0e75b6&style=flat" alt="morshedagithub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morshedagithub" alt="morshedagithub" /></a> </p>
